@@ -1,4 +1,4 @@
-#Function to create an the game board:
+#Function to create the game board:
 
 from IPython.display import clear_output
 #print('\n'*100)
